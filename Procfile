@@ -1,1 +1,1 @@
-worker: bash alive
+worker: bash moh
